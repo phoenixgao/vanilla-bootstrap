@@ -1,6 +1,6 @@
-[![Bootstrap for Vanilla](screenshot.png)](https://github.com/kasperisager/vanilla-bootstrap)
+[![Bootstrap for Vanilla](screenshot.png)](https://github.com/phoenixgao/vanilla-bootstrap)
 
-[![Release](http://img.shields.io/github/release/kasperisager/vanilla-bootstrap.svg?style=flat)](https://github.com/kasperisager/vanilla-bootstrap/releases) [![Depencency Status](http://img.shields.io/gemnasium/kasperisager/vanilla-bootstrap.svg?style=flat)](https://gemnasium.com/kasperisager/vanilla-bootstrap)
+[![Release](http://img.shields.io/github/release/phoenixgao/vanilla-bootstrap.svg?style=flat)](https://github.com/kasperisager/vanilla-bootstrap/releases) [![Depencency Status](http://img.shields.io/gemnasium/phoenixgao/vanilla-bootstrap.svg?style=flat)](https://gemnasium.com/kasperisager/vanilla-bootstrap)
 
 Bootstrap for Vanilla has been rewritten from scratch on top of [Bootstrap 3](http://getbootstrap.com) in this second installation of the most popular theme for Vanilla Forums. Kickstart your Vanilla-powered community forums with a fresh and solid theme that is ready to be customized to your heart's desires.
 
@@ -8,11 +8,11 @@ Bootstrap for Vanilla has been rewritten from scratch on top of [Bootstrap 3](ht
 
 To get started using Bootstrap for Vanilla, either:
 
-- [__Download the latest release__](https://github.com/kasperisager/vanilla-bootstrap/releases/latest)
+- [__Download the latest release__](https://github.com/phoenixgao/vanilla-bootstrap/releases/latest)
 - Clone the repository directly into your Vanilla `themes` directory:
 
 ```sh
-$ git clone kasperisager/vanilla-bootstrap bootstrap
+$ git clone git@github.com:phoenixgao/vanilla-bootstrap.git bootstrap
 ```
 
 ## Included themes
@@ -48,12 +48,12 @@ Compiles all theme assets using Gulp. LESS stylesheets will be compiled to [`des
 #### Watch - `npm run watch`
 Watches the assets for changes and runs the appropriate Gulp tasks. Also starts a Livereload server that will push the changes to your Vanilla installation automatically.
 
-## [Issue tracking](https://github.com/kasperisager/vanilla-bootstrap/issues)
+## [Issue tracking](https://github.com/phoenixgao/vanilla-bootstrap/issues)
 
 If you come across any bugs or if you have a feature request, please file an issue using the GitHub Issue tracker. Bootstrap for Vanilla won't be supported through http://vanillaforums.org so please stick to using GitHub for inquiries about bugs and feature requests. Thanks!
 
-[__File a new issue or feature request__](https://github.com/kasperisager/vanilla-bootstrap/issues/new)
+[__File a new issue or feature request__](https://github.com/phoenixgao/vanilla-bootstrap/issues/new)
 
 ---
 
-Copyright &copy; 2014 [Kasper Kronborg Isager](https://github.com/kasperisager). Licensed under the terms of the [MIT License](LICENSE.md)
+Copyright &copy; 2014 [Kasper Kronborg Isager](https://github.com/phoenixgao). Licensed under the terms of the [MIT License](LICENSE.md)
