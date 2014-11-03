@@ -1,6 +1,6 @@
 [![Bootstrap for Vanilla](screenshot.png)](https://github.com/phoenixgao/vanilla-bootstrap)
 
-[![Release](http://img.shields.io/github/release/phoenixgao/vanilla-bootstrap.svg?style=flat)](https://github.com/kasperisager/vanilla-bootstrap/releases) [![Depencency Status](http://img.shields.io/gemnasium/phoenixgao/vanilla-bootstrap.svg?style=flat)](https://gemnasium.com/kasperisager/vanilla-bootstrap)
+[![Release](http://img.shields.io/github/release/phoenixgao/vanilla-bootstrap.svg?style=flat)](https://github.com/phoenixgao/vanilla-bootstrap/releases) [![Depencency Status](http://img.shields.io/gemnasium/phoenixgao/vanilla-bootstrap.svg?style=flat)](https://gemnasium.com/phoenixgao/vanilla-bootstrap)
 
 Bootstrap for Vanilla has been rewritten from scratch on top of [Bootstrap 3](http://getbootstrap.com) in this second installation of the most popular theme for Vanilla Forums. Kickstart your Vanilla-powered community forums with a fresh and solid theme that is ready to be customized to your heart's desires.
 
@@ -56,4 +56,4 @@ If you come across any bugs or if you have a feature request, please file an iss
 
 ---
 
-Copyright &copy; 2014 [Kasper Kronborg Isager](https://github.com/phoenixgao). Licensed under the terms of the [MIT License](LICENSE.md)
+Copyright &copy; 2014 [Phoenix Gao](https://github.com/phoenixgao). Licensed under the terms of the [MIT License](LICENSE.md)
